@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\XamarinCampus\\CampusNavigationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\contactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\contactpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|C:\\XamarinCampus\\CampusNavigationSystem\\campusnavigationsystem\\campusnavigationsystem.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|C:\\XamarinCampus\\CampusNavigationSystem\\campusnavigationsystem\\campusnavigationsystem.android\\custommaprenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem.android\\custommaprenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|C:\\XamarinCampus\\CampusNavigationSystem\\campusnavigationsystem\\campusnavigationsystem.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem.android\\resources\\resource.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|C:\\XamarinCampus\\CampusNavigationSystem\\campusnavigationsystem\\campusnavigationsystem.android\\resources\\layout\\custom_info_window.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem.android\\resources\\layout\\custom_info_window.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|C:\\XamarinCampus\\CampusNavigationSystem\\campusnavigationsystem\\campusnavigationsystem.android\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem.android\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|C:\\XamarinCampus\\CampusNavigationSystem\\campusnavigationsystem\\campusnavigationsystem.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2D914344-4EFF-488D-A721-A6674233F065}|CampusNavigationSystem\\CampusNavigationSystem.Android\\CampusNavigationSystem.Android.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\welcomepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\welcomepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\resetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\resetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\resetpassword.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\resetpassword.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\registrationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\registrationpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\registrationpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\pedestrianroutepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\pedestrianroutepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\pedestrianroutepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\pedestrianroutepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\passwordhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\loginpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\forgetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\forgetpassword.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\forgetpassword.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\forgetpassword.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\custommap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\custommap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\contactpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\contactpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\applyadminprivilegepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\applyadminprivilegepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\applyadminprivilegepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\applyadminprivilegepage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\app.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\adminpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\adminpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\adminpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\data\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\data\\databaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\data\\adminrequestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\data\\adminrequestpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\data\\adminrequestpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\data\\adminrequestpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|c:\\xamarincampus\\campusnavigationsystem\\campusnavigationsystem\\campusnavigationsystem\\data\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72718EFB-9AF7-4ECE-A991-FEEB18C53DB1}|CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.csproj|solutionrelative:campusnavigationsystem\\campusnavigationsystem\\data\\adminrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-01T14:38:06.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem.Android\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem.Android\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:38:09.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\MainPage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\MainPage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\MainPage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:37:17.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\App.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\App.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\App.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:50.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem.Android\\MainActivity.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\MainActivity.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem.Android\\MainActivity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T14:10:54.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomMapRenderer.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\CustomMapRenderer.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem.Android\\CustomMapRenderer.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\CustomMapRenderer.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem.Android\\CustomMapRenderer.cs",
+              "ViewState": "AgIAADIBAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:36:23.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\MainPage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\MainPage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\MainPage.xaml.cs",
+              "ViewState": "AgIAACQDAAAAAAAAAAAswEADAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:20.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ContactPage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ContactPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\ContactPage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ContactPage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\ContactPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:03.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResetPassword.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ResetPassword.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\ResetPassword.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ResetPassword.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\ResetPassword.xaml.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:49.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WelcomePage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\WelcomePage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\WelcomePage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\WelcomePage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\WelcomePage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:37:51.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Resource.designer.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\Resources\\Resource.designer.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem.Android\\Resources\\Resource.designer.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\Resources\\Resource.designer.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem.Android\\Resources\\Resource.designer.cs",
+              "ViewState": "AgIAAFKKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T02:12:25.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WelcomePage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\WelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\WelcomePage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\WelcomePage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\WelcomePage.xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:54.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "custom_info_window.xml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\Resources\\Layout\\custom_info_window.xml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem.Android\\Resources\\Layout\\custom_info_window.xml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem.Android\\Resources\\Layout\\custom_info_window.xml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem.Android\\Resources\\Layout\\custom_info_window.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-01T14:38:26.949Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResetPassword.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ResetPassword.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\ResetPassword.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ResetPassword.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\ResetPassword.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:37:47.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegistrationPage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\RegistrationPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\RegistrationPage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\RegistrationPage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\RegistrationPage.xaml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:44.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistrationPage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\RegistrationPage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\RegistrationPage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\RegistrationPage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\RegistrationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:37:43.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PedestrianRoutePage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\PedestrianRoutePage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\PedestrianRoutePage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\PedestrianRoutePage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\PedestrianRoutePage.xaml.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:39.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PedestrianRoutePage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\PedestrianRoutePage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\PedestrianRoutePage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\PedestrianRoutePage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\PedestrianRoutePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:37:37.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PasswordHelper.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\PasswordHelper.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\PasswordHelper.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\PasswordHelper.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\PasswordHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:35.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\LoginPage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\LoginPage.xaml.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:14.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\LoginPage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\LoginPage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\LoginPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:37:12.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ForgetPassword.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ForgetPassword.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\ForgetPassword.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ForgetPassword.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\ForgetPassword.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:10.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ForgetPassword.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ForgetPassword.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\ForgetPassword.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ForgetPassword.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\ForgetPassword.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:37:08.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomMap.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\CustomMap.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\CustomMap.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\CustomMap.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\CustomMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:37:06.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ContactPage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ContactPage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\ContactPage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ContactPage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\ContactPage.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:37:01.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\AssemblyInfo.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\AssemblyInfo.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:59.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplyAdminPrivilegePage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ApplyAdminPrivilegePage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\ApplyAdminPrivilegePage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ApplyAdminPrivilegePage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\ApplyAdminPrivilegePage.xaml.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:56.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplyAdminPrivilegePage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ApplyAdminPrivilegePage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\ApplyAdminPrivilegePage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\ApplyAdminPrivilegePage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\ApplyAdminPrivilegePage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:36:54.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\App.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\App.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\App.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:36:48.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AdminPage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\AdminPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\AdminPage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\AdminPage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\AdminPage.xaml.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:44.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AdminPage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\AdminPage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\AdminPage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\AdminPage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\AdminPage.xaml",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:36:41.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DatabaseService.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Data\\DatabaseService.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\Data\\DatabaseService.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Data\\DatabaseService.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\Data\\DatabaseService.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:34.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminRequestPage.xaml.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequestPage.xaml.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequestPage.xaml.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequestPage.xaml.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequestPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:30.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AdminRequestPage.xaml",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequestPage.xaml",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequestPage.xaml",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequestPage.xaml",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequestPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-01T14:36:28.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\Models\\User.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Models\\User.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:18.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\Models\\Location.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Models\\Location.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\Models\\Location.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:36:15.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "AdminRequest.cs",
+              "DocumentMoniker": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequest.cs",
+              "RelativeDocumentMoniker": "CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequest.cs",
+              "ToolTip": "C:\\XamarinCampus\\CampusNavigationSystem\\CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequest.cs",
+              "RelativeToolTip": "CampusNavigationSystem\\CampusNavigationSystem\\Data\\AdminRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T14:33:53.211Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

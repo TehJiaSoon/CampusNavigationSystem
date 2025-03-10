@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CampusNavigationSystem"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="CampusNavigationSystem.PedestrianRoutePage"
+             Title="Pedestrian Route to Campus"
+             BackgroundColor="LightGreen">
+    
+    <StackLayout>
+        <Label Text="Pedestrian Route from Hostel to Campus"
+               FontSize="19"
+               HorizontalOptions="Center"
+               TextColor="Black"
+               Padding="10" />
+
+         <!-- VIRTUAL TOUR ON BROWSER -->
+        <Button Text="Virtual Tour ON INTI CAMPUS ➚"
+        BackgroundColor="Blue"
+        TextColor="White"
+        FontSize="18"
+        CornerRadius="10"
+        Clicked="OnVirtualTourButtonClicked" />
+        
+        <Button x:Name="ToggleMapTypeButton" 
+            Text="Switch to Satellite View" 
+            Clicked="OnToggleMapTypeClicked" 
+            HorizontalOptions="Center"
+            BackgroundColor="MediumPurple"/>
+
+        <local:CustomMap x:Name="PedestrianMap"
+                         HeightRequest="400"
+                         VerticalOptions="FillAndExpand"
+                         HorizontalOptions="FillAndExpand" />
+
+
+    </StackLayout>
+</ContentPage>

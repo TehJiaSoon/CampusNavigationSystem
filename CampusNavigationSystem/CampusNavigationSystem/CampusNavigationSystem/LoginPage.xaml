@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CampusNavigationSystem.LoginPage"
+             Title="Login">
+
+    <StackLayout Padding="20" VerticalOptions="CenterAndExpand" Spacing="15">
+        <Entry x:Name="UsernameEntry" Placeholder="Username or Email" />
+        <Entry x:Name="PasswordEntry" Placeholder="Password" IsPassword="True" />
+
+        <Button Text="Login" BackgroundColor="Green" TextColor="White" Clicked="OnLoginClicked" />
+
+        <Label Text="Don't have an account? Register Now" TextColor="Blue"
+               HorizontalOptions="Center" VerticalOptions="End" GestureRecognizers="{TapGestureRecognizer Tapped='OnRegisterTapped'}" />
+
+        <Label Text="Forgot Password?" TextColor="Blue"
+               HorizontalOptions="Center" VerticalOptions="End">
+            <Label.GestureRecognizers>
+                <TapGestureRecognizer Tapped="OnForgetPasswordTapped" />
+            </Label.GestureRecognizers>
+        </Label>
+    </StackLayout>
+</ContentPage>

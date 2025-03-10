@@ -1,0 +1,67 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:CampusNavigationSystem"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="CampusNavigationSystem.MainPage"
+             BackgroundColor="White"
+             Title="INTI IU Campus Navigation System">
+
+
+    <StackLayout Padding="20" Spacing="15">
+
+        <Button x:Name="PedestrianRouteButton"
+        Text="View Pedestrian Route (WALK)"
+        FontSize="18"
+        BackgroundColor="#4CAF50"
+        TextColor="White"
+        CornerRadius="10"
+        Clicked="OnPedestrianRouteClicked"/>
+        
+        
+        <Label Text="Choose"
+               TextColor="Black"
+               FontSize="15"
+               HorizontalTextAlignment="Center">    
+        </Label>
+
+        <!-- Navigation Buttons -->
+        <Button x:Name="CampusDirectionsButton"
+                Text="Navigate to INTI Campus (DRIVE)"
+                FontSize="18"
+                BackgroundColor="Red"
+                TextColor="White"
+                CornerRadius="10"
+                Clicked="OnGetCampusDirectionsClicked"/>
+
+        <!-- Google Map Display -->
+        <local:CustomMap x:Name="CampusMap"
+                 HeightRequest="100"
+                 VerticalOptions="FillAndExpand"
+                 HorizontalOptions="FillAndExpand"/>
+
+        <Button x:Name="ToggleMapTypeButton" 
+            Text="Switch to Satellite View" 
+            Clicked="OnToggleMapTypeClicked" 
+            HorizontalOptions="Center"
+            BackgroundColor="MediumPurple"/>
+            
+        <Entry x:Name="DestinationEntry" 
+               Placeholder="Enter your destination" />
+
+        <Button x:Name="CustomDirectionsButton"
+                Text="Get Directions" 
+                BackgroundColor="YellowGreen" 
+                TextColor="White" 
+                Clicked="OnGetCustomDirectionsClicked" />
+
+
+
+        <Button x:Name="AdminPanelButton"
+            Text="Go to Admin Panel"
+            BackgroundColor="Red"
+            TextColor="White"
+            IsVisible="False"
+            Clicked="OnAdminPanelClicked" />
+        
+    </StackLayout>
+</ContentPage>

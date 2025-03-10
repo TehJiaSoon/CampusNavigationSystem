@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CampusNavigationSystem.AdminPage"
+             Title="Admin - Database Management">
+    
+    <StackLayout>
+        <Button Text="View for Admin Requests From Users"
+         BackgroundColor="Blue"
+         TextColor="White"
+         FontSize="18"
+         CornerRadius="10"
+         Clicked="OnApplyAdminRequestPageClicked"
+         HorizontalOptions="FillAndExpand"/>
+        
+        <Label Text="User Database" FontSize="20" FontAttributes="Bold" HorizontalOptions="Center"/>
+
+        <!-- Entry to input Username or Email -->
+        <Entry x:Name="IdentifierEntry" 
+               Placeholder="Enter username or email to delete"
+               HorizontalOptions="FillAndExpand"
+               VerticalOptions="Center"/>
+        
+        <!-- Button to delete the account -->
+        <Button Text="Delete Account"
+                BackgroundColor="Red" 
+                TextColor="White" 
+                Clicked="OnDeleteAccountClicked" 
+                HorizontalOptions="Center"
+                VerticalOptions="Center"/>
+
+
+        <!-- Search Bar -->
+        <SearchBar x:Name="UserSearchBar" 
+               Placeholder="Search by username or email"
+               TextChanged="OnSearchTextChanged" />
+        
+        
+        <ListView x:Name="UsersListView" RowHeight="80" HasUnevenRows="True" >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding Username, StringFormat='{0}'}" FontSize="18" FontAttributes="Bold" />
+                            <Label Text="{Binding Email, StringFormat='Email: {0}'}" FontSize="14" />
+                            <Label Text="{Binding PasswordHash, StringFormat='Encrypted Password: {0}'}" FontSize="12" TextColor="Gray" />
+                            <Label Text="{Binding IsAdmin, StringFormat='Admin Privileges: {0}'}" FontSize="12" TextColor="Gray" />
+                            <!-- Edit Button -->
+                            <Button Text="Toggle Admin Privilege"
+                            BackgroundColor="Orange"
+                            TextColor="White"
+                            Command="{Binding ToggleAdminPrivilegeCommand}"
+                            CommandParameter="{Binding .}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
+

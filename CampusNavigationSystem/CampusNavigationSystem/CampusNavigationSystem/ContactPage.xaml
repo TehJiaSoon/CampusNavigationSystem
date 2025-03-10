@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CampusNavigationSystem.ContactPage"
+             Title="Contact Us">
+    <StackLayout Padding="20" VerticalOptions="CenterAndExpand" Spacing="20" BackgroundColor="White">
+
+        <!-- Title -->
+        <Label Text="Contact Information" 
+               FontSize="24" 
+               FontAttributes="Bold"
+               HorizontalOptions="Center"
+               TextColor="#4CAF50"/>
+
+        <!-- Description -->
+        <Label Text="Feel free to reach out to us for support, feedback, or general inquiries."
+               FontSize="18"
+               HorizontalOptions="CenterAndExpand"
+               HorizontalTextAlignment="Center"
+               TextColor="Black"/>
+
+        <!-- Name -->
+        <Label Text="Developer: Teh Jia Soon / Darrick(NickName)" 
+               FontSize="16" 
+               HorizontalOptions="CenterAndExpand" 
+               TextColor="Black"/>
+
+        <!-- Email -->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Label Text="Email: " FontSize="16" TextColor="Black"/>
+            <Label Text="darrick7765@gmail.com" FontSize="16" TextColor="Blue" />
+        </StackLayout>
+
+        <!-- Phone -->
+        <StackLayout Orientation="Horizontal" HorizontalOptions="CenterAndExpand">
+            <Label Text="Phone: " FontSize="16" TextColor="Black"/>
+            <Label Text="+60176206990" FontSize="16" TextColor="Blue" />
+        </StackLayout>
+
+        <!-- Address -->
+        <Label Text="Address: INTI International University, Nilai, Negeri Sembilan, Malaysia" 
+               FontSize="16" 
+               HorizontalOptions="CenterAndExpand" 
+               TextColor="Black"
+               HorizontalTextAlignment="Center"/>
+
+        <!-- Buttons -->
+        <Button Text="Email Us"
+                BackgroundColor="#2196F3"
+                TextColor="White"
+                FontSize="18"
+                CornerRadius="10"
+                Clicked="OnEmailButtonClicked"
+                HorizontalOptions="FillAndExpand"/>
+
+        <Button Text="Call Us"
+                BackgroundColor="#4CAF50"
+                TextColor="White"
+                FontSize="18"
+                CornerRadius="10"
+                Clicked="OnCallButtonClicked"
+                HorizontalOptions="FillAndExpand"/>
+    </StackLayout>
+</ContentPage>

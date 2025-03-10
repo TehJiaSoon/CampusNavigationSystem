@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CampusNavigationSystem.AdminRequestPage"
+             Title="Admin Requests">
+
+    <StackLayout Padding="20" Spacing="20">
+        <Label Text="Admin Privilege Requests"
+               FontSize="24"
+               FontAttributes="Bold"
+               HorizontalOptions="Center" />
+
+        <ListView x:Name="RequestsListView" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <StackLayout Padding="10">
+                            <Label Text="{Binding Username}" FontSize="18" FontAttributes="Bold" />
+                            <Label Text="{Binding Email}" FontSize="14" />
+                            <Label Text="{Binding RequestDate, StringFormat='Requested on: {0:MMMM dd, yyyy hh:mm tt}'}" FontSize="14" TextColor="Gray" />
+                            <Button Text="Approve" 
+                                    BackgroundColor="Green"
+                                    TextColor="White"
+                                    Clicked="OnApproveClicked"
+                                    CommandParameter="{Binding Id}" />
+                        </StackLayout>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+</ContentPage>
