@@ -1,0 +1,1 @@
+Most of the main functions are driven by the Google API Key. What was unfortunate is that my own Google API Key has exceeded the free range of date. If you would like to use this system, don't forget to replace those API Key-related coding with your own Google API Key!
